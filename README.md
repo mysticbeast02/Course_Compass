@@ -4,7 +4,7 @@ It uses TF-IDF vectorization and cosine similarity to find courses with similar 
 Recommendations are based on the provided CSV dataset
 
 # Features
--Browse and select courses from your dataset.
--Get related course recommendations automatically.
--Recommendations based on course title, skills, and description.
--Displays ratings, categories, and short descriptions if available.
+- Browse and select courses from your dataset.
+- Get related course recommendations automatically.
+- Recommendations based on course title, skills, and description.
+- Displays ratings, categories, and short descriptions if available.
