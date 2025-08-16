@@ -3,7 +3,7 @@ A Streamlit-based web application that recommends related courses based on the s
 It uses TF-IDF vectorization and cosine similarity to find courses with similar content, skills, and topics.
 Recommendations are based on the provided CSV dataset
 
-#Features
+# Features
 -Browse and select courses from your dataset.
 -Get related course recommendations automatically.
 -Recommendations based on course title, skills, and description.
